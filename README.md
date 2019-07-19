@@ -9,4 +9,4 @@ que sobrevivirían una catástrofe apocalíptica.
 En éste minijuego eres una gallina que debe evitar morir aplastada por un meteorito. Algo así como la revancha por lo de los
 dinosaurios. Simplemente toca en cualquier lugar de la pantalla para moverte.
 
-![Pantalla del juego: una gallina en un escenario baldío y meteoritos cayendo del cielo](https://i.imgur.com/zUaMLcF.jpg "Screenshot del juego")
+![Pantalla del juego: una gallina en un escenario baldío y meteoritos cayendo del cielo](https://i.imgur.com/zUaMLcF.jpg?height=240 "Screenshot del juego")
